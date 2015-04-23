@@ -4,7 +4,7 @@
   <title><![CDATA[24plays]]></title>
   <link href="http://24plays.github.io/atom.xml" rel="self"/>
   <link href="http://24plays.github.io/"/>
-  <updated>2015-04-24T00:06:00+03:00</updated>
+  <updated>2015-04-24T00:08:44+03:00</updated>
   <id>http://24plays.github.io/</id>
   <author>
     <name><![CDATA[Great Playwriter]]></name>
@@ -18,7 +18,7 @@
     <link href="http://24plays.github.io/blog/2015/04/24/the-woes-of-wit/"/>
     <updated>2015-04-24T00:05:30+03:00</updated>
     <id>http://24plays.github.io/blog/2015/04/24/the-woes-of-wit</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<h4>Здесь будет пьеса Горе от ума</h4>
 ]]></content>
   </entry>
   
