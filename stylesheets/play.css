@@ -18,8 +18,9 @@
 }
 
 .right-sentence .bubble-wrapper{
-    width: 100%;
+    width: 98%;
     overflow:auto;
+            padding-right: 1%;
 }
 
 .left-sentence .bubble{
@@ -36,9 +37,9 @@
     float: left;
     margin-top: 10px;
     margin-bottom: 10px;
-    -webkit-box-shadow: 10px 4px 10px 0px #616161;
-    -moz-box-shadow: 10px 4px 10px 0px #616161;
-    box-shadow: 10px 4px 10px 0px #616161;
+    -webkit-box-shadow: 5px 2px 5px 0px #616161;
+    -moz-box-shadow: 5px 2px 5px 0px#616161;
+    box-shadow: 5px 2px 5px 0px #616161;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 1em;
     text-align: left;
@@ -60,9 +61,9 @@
     float: right;
     margin-top: 10px;
     margin-bottom: 10px;
-    -webkit-box-shadow: 10px 4px 10px 0px #616161;
-    -moz-box-shadow: 10px 4px 10px 0px #616161;
-    box-shadow: 10px 4px 10px 0px #616161;
+    -webkit-box-shadow: 5px 2px 5px 0px #616161;
+    -moz-box-shadow: 5px 2px 5px 0px #616161;
+    box-shadow: 5px 2px 5px 0px #616161;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 1em;
     text-align: right;
