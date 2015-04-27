@@ -20,7 +20,16 @@
 .right-sentence .bubble-wrapper{
     width: 98%;
     overflow:auto;
-            padding-right: 1%;
+    padding-right: 1%;
+}
+
+.right-sentence i{
+    padding-right: 2%;
+    color: grey;
+}
+
+.left-sentence i{
+    color: grey;
 }
 
 .left-sentence .bubble{
@@ -86,11 +95,22 @@
     width: 76%;
 }
 
+.left-sentence .name {
+    margin: 2%;
+    margin-bottom: 0;
+    height: auto;
+    float: right;
+    width: 76%;
+    color: green;
+}
+
+
 .right-sentence .image img {
     margin: 2%;
     width: 16%;
     height: auto;
     float: right;
+    border-radius: 14px;
 }
 
 .right-sentence .comment {
@@ -98,4 +118,13 @@
     height: auto;
     float: left;
     width: 76%;
+}
+
+.right-sentence .name {
+    margin: 2%;
+    margin-bottom: 0;
+    height: auto;
+    float: left;
+    width: 76%;
+    color: green;
 }
